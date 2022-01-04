@@ -3,7 +3,7 @@
 - 🔭 I’m currently strengthening my programming skills through [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 - 🌱 I’m currently learning how to make cool apps with Javascript
 - 👯 I’m looking to collaborate on projects that make people smile
-- 🤔 I’m looking for help with finding a job
+- 🤔 I’m looking for help with finding a new gpu
 - 💬 Ask me about my favourite video games
 - ⚡ Fun fact: I got my first Warzone win after 75 games
 
