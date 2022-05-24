@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on projects that make people smile
 - 🤔 I’m looking for help with finding a new gpu
 - 💬 Ask me about my favourite video games
-- ⚡ Fun fact: I got my first Warzone win after 75 games
 
 ## Technologies & Tools
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-000?style=flat&logo=ruby-on-rails&logoColor=white&color=5f85db)
