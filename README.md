@@ -17,4 +17,4 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-000?style=flat&logo=bulma&logoColor=white&color=5f85db)
 
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=curly08&show_icons=true&title_color=26282b&text_color=353941&icon_color=353941&bg_color=5f85db&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=mattnoakes&show_icons=true&title_color=26282b&text_color=353941&icon_color=353941&bg_color=5f85db&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
